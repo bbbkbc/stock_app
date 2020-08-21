@@ -1,1 +1,2 @@
-# django_playground_2
+# stock app
+
